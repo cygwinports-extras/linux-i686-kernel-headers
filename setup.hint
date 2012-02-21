@@ -1,3 +1,4 @@
 category: Devel
 requires: 
 sdesc: "Kernel headers for Linux i686 toolchain"
+ldesc: "Kernel headers for Linux i686 toolchain"
